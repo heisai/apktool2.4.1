@@ -86,7 +86,7 @@ if (apkOptions.doNotCompress != null)
   
   __DoNoCompress  : 存储不压缩文件名的 文件路径__
   
-  __"java -jar %s b %s -o %s  -f %s" % (apktool_jar_path, tempdir, apkpath, DoNoCompress)
+  "java -jar %s b %s -o %s  -f %s" % (apktool_jar_path, tempdir, apkpath, DoNoCompress)
   
    
   ### 微信: yangsenhehe 如果对你有所帮助, 记得点赞, star偶.
