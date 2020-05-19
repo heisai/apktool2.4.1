@@ -50,7 +50,7 @@ if (apkOptions.doNotCompress != null)
 
 ### apktool 源码编译
 
-1.  __git clone git://github.com/iBotPeaches/Apktool.git__
+1.  __git clone https://github.com/heisai/apktool2.4.1.git__
 
 2.  __cd Apktool__
 
